@@ -1,3 +1,3 @@
 #!/bin/bash
 
-sudo python3 pwospf_topo_py3.py
+sudo python2 pwospf_topo.py
